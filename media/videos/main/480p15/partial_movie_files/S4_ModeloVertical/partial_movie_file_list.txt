@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/1185818338_726230878_223132457.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_2735498567_788748297.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_3305973859_2821246131.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_4238112538_3722676198.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_1592347261_4026434920.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_741662529_3355889768.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_3074111875_660738701.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_3515846534_3850699032.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_1488369316_1247557814.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_3201849554_1247556606.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_975047312_4016169288.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S4_ModeloVertical/624642324_3201849554_1200263747.mp4'

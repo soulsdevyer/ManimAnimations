@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/1185818338_3034212199_223132457.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_2455094323_2689175883.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_3201849554_3249758910.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_2949587638_3996599929.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_3304740824_869978203.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_100776579_161358620.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_3196435182_1941606841.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_3201849554_1846151089.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_2614654603_1335408290.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S7_Resumen/624642324_1754310298_1767083595.mp4'

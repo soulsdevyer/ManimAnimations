@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/1185818338_3550712428_223132457.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_227361090_682894563.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_3201849554_1932999041.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_1526260923_926248599.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_3201849554_999630523.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_2934979802_4000544924.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_3621347206_4106896840.mp4'
+file 'file:C:/Programming/ManimAnimations/media/videos/main/480p15/partial_movie_files/S1_Introduccion/624642324_2408024828_71017737.mp4'
